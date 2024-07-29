@@ -25,7 +25,7 @@ This is an Authentication API built with .NET 8 and IdentityUser. This API provi
 
    ```sh
    git clone https://github.com/RavanM2003/AuthenticationAPI.git
-   cd authentication-api
+   cd AuthenticationAPI
    ```
 
 2. Update the connection string in `appsettings.json`:
