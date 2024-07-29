@@ -85,6 +85,3 @@ This is an Authentication API built with .NET 8 and IdentityUser. This API provi
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
